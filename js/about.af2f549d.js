@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcarlomedina_frontend"]=self["webpackChunkcarlomedina_frontend"]||[]).push([[594],{5609:function(n,a,e){e.r(a),e.d(a,{default:function(){return i}});var r=e(6768);const t={class:"about"};function u(n,a){return(0,r.uX)(),(0,r.CE)("div",t,a[0]||(a[0]=[(0,r.Lk)("h1",null,"This is an about page",-1)]))}var c=e(1241);const o={},s=(0,c.A)(o,[["render",u]]);var i=s}}]);
+//# sourceMappingURL=about.af2f549d.js.map
